@@ -11,7 +11,7 @@ public class Chapter07 {
 			System.out.println("とても遠いです");
 		}
 		
-		String color = "ggg";
+		String color = "red";
 		switch (color) {
 		case "red":
 			System.out.println("赤信号です");
